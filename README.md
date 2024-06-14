@@ -38,15 +38,26 @@ Die Navigation in der App wird durch ein Drawer-Menü ermöglicht. Jede Seite ka
 - `ElevatedButton`: Für Schaltflächen, um Aktionen auszulösen (z.B. Senden einer Nachricht).
 
 ## Screenshots
+Screenshots der App sind im Ordner [screenshots](screenshots) zu finden. Sie zeigen die Darstellung und Inhalte jeder Seite.
 
-Screenshots der App sind im Ordner `screenshots` zu finden. Sie zeigen die Darstellung und Inhalte jeder Seite.
+### Startseite
+[Startseite](screenshots/Screenshot%20Startseite.png)
 
-![Startseite](screenshots/startseite.png)
-![Über mich](screenshots/ueber_mich.png)
-![Lebenslauf](screenshots/lebenslauf.png)
-![Fähigkeiten](screenshots/faehigkeiten.png)
-![Projekte](screenshots/projekte.png)
-![Kontakt](screenshots/kontakt.png)
+### Über mich
+[Über mich](screenshots/Screenshot%20Mich.png)
+
+### Lebenslauf
+[Lebenslauf Teil 1](screenshots/Screenshot%20Lebenslauf%20pt1.png)
+[Lebenslauf Teil 2](screenshots/Screenshot%20Lebenslauf%20pt2.png)
+
+### Fähigkeiten
+[Fähigkeiten](screenshots/Screenshot%20Skills.png)
+
+### Projekte
+[Projekte](screenshots/Screenshot%20Projekte.png)
+
+### Kontakt
+[Kontakt](screenshots/Screenshot%20Kontakt.png)
 
 ## Installation und Ausführung
 
