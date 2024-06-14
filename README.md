@@ -12,7 +12,13 @@ Diese App ist ein persönliches Portfolio, das verschiedene Bereiche enthält, d
 
 ## Navigation
 
-Die Navigation in der App wird durch ein Drawer-Menü ermöglicht. Jede Seite kann durch das Antippen der entsprechenden Option im Menü erreicht werden.
+Die Navigation in der App wird durch ein Drawer-Menü ermöglicht. Jede Seite kann durch das Antippen der entsprechenden Option im Menü erreicht werden. Das Drawer-Menü enthält folgende Links:
+- **Startseite**: Zurück zur Hauptseite der App.
+- **Über mich**: Eine Seite mit einer kurzen Beschreibung über mich, meine Interessen und Motivationen.
+- **Lebenslauf**: Eine Übersicht über meine bisherige Ausbildung, berufliche Erfahrungen und wichtige Projekte.
+- **Fähigkeiten**: Eine Liste oder visuelle Darstellung meiner Fähigkeiten in verschiedenen Bereichen (z.B. Programmiersprachen, Tools, Soft Skills).
+- **Projekte**: Eine Auswahl von Projekten, an denen ich gearbeitet habe, inklusive Beschreibungen, verwendeten Technologien und Links zu Quellcodes, falls vorhanden.
+- **Kontakt**: Ein Formular, um mich zu kontaktieren.
 
 ## Verwendete Widgets
 
@@ -28,6 +34,8 @@ Die Navigation in der App wird durch ein Drawer-Menü ermöglicht. Jede Seite ka
 - `Card`: Für die Darstellung von Karten mit Inhalt.
 - `Column` und `Row`: Für die Anordnung von Widgets in vertikaler bzw. horizontaler Richtung.
 - `ListTile`: Für die Listenelemente im Drawer und in den Karten.
+- `TextField`: Für Eingabefelder im Kontaktformular.
+- `ElevatedButton`: Für Schaltflächen, um Aktionen auszulösen (z.B. Senden einer Nachricht).
 
 ## Screenshots
 
